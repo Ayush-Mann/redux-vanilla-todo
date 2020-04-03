@@ -1,5 +1,5 @@
 // import { addTodo, toggleTodo } from "./actions"
-const input = document.querySelector('.input')
+const input = document.querySelector('.input-todo')
 const ulist = document.querySelector('.ulist')
 const allTodoBtn = document.querySelector('.allTodoBtn')
 const activeTodoBtn = document.querySelector('.activeTodoBtn')
