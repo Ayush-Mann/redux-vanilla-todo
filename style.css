@@ -182,7 +182,7 @@ ul {
 }
 input:checked + p {
 	text-decoration: line-through;
-	color: #d9d9d9;
+	color: #6e6d6d;
 }
 
 .list {
